@@ -6530,29 +6530,29 @@
     "message": "Banknaam"
   },
   "nameOnAccount": {
-    "message": "Naam op rekening"
+    "message": "Rekeninghouder"
   },
   "bankAccountType": {
     "message": "Soort rekening"
   },
   "bankAccountTypeCompany": {
-    "message": "Bedrijf"
+    "message": "Zakelijk"
   },
   "bankAccountTypeIndividual": {
-    "message": "Individu"
+    "message": "Persoonlijk"
   },
   "accountNumber": {
     "message": "Rekeningnummer"
   },
   "bankRoutingNumber": {
-    "message": "Routeringsnummer",
+    "message": "Bankrouteringsnummer",
     "description": "Used in the bank account cipher type"
   },
   "branchNumber": {
-    "message": "Vestiging/instituutnummer"
+    "message": "Filiaalnummer"
   },
   "swiftCode": {
-    "message": "SWIFT-code"
+    "message": "BIC/SWIFT-code"
   },
   "iban": {
     "message": "IBAN"
@@ -6579,13 +6579,13 @@
     "message": "IBAN kopiëren"
   },
   "copyNameOnAccount": {
-    "message": "Copy name on account"
+    "message": "Rekeninghouder kopiëren"
   },
   "copyBranchNumber": {
-    "message": "Copy branch number"
+    "message": "Filiaalnummer kopiëren"
   },
   "copySwiftCode": {
-    "message": "Copy SWIFT code"
+    "message": "BIC/SWIFT kopiëren"
   },
   "copyFirstName": {
     "message": "Voornaam kopiëren"
@@ -6603,22 +6603,22 @@
     "message": "Paspoortnummer kopiëren"
   },
   "bankAccountTypeChecking": {
-    "message": "Controleren"
+    "message": "Betaalrekening"
   },
   "bankAccountTypeSavings": {
-    "message": "Spaargeld"
+    "message": "Spaarrekening"
   },
   "bankAccountTypeCertificateOfDeposit": {
-    "message": "Bewijs van storting"
+    "message": "Depositorekening"
   },
   "bankAccountTypeLineOfCredit": {
-    "message": "Kredietlijn"
+    "message": "Kredietrekening"
   },
   "bankAccountTypeInvestmentBrokerage": {
-    "message": "Investering/makelaar"
+    "message": "Beleggingsrekening"
   },
   "bankAccountTypeMoneyMarket": {
-    "message": "Geldmarkt"
+    "message": "Geldmarktrekening"
   },
   "bankAccountTypeOther": {
     "message": "Overig"
